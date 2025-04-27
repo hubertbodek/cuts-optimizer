@@ -1,0 +1,5 @@
+pulp>=2.7.0
+pandas>=2.0.0
+reportlab>=4.0.0
+ezdxf>=1.0.0
+Pillow>=10.0.0 
